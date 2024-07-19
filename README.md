@@ -1,5 +1,5 @@
 ## 👋 Heya!
-**I'm Tori** — I make websites, games, mods, libraries, & more! Take a look at some of my projects here on GitHub or over on my beautiful [website](https://7ori.dev).
+I'm known as **Tori** on the internet — I make websites, games, mods, libraries, & more! Take a look at some of my projects here on GitHub or over on my beautiful [website](https://7ori.dev).
 
 ## 🧰 Tools
 
