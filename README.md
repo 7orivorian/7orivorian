@@ -3,8 +3,8 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 
 ## 🧰 Tools
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://skillicons.dev/icons?i=idea,vscode,github,git,postman,mongodb,heroku"> </a> </p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://skillicons.dev/icons?i=idea,vscode,github,git,maven,gradle,postman,mongodb,heroku"> </a> </p>
 
 ## 📜 Languages
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://skillicons.dev/icons?i=java,maven,gradle,js,express,nodejs,html,css,scss,md"> </a> </p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://skillicons.dev/icons?i=java,js,express,nodejs,html,css,scss,md"> </a> </p>
