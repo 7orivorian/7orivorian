@@ -17,4 +17,4 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 
 ### 🖥️ OS
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl&perline=7"></a></p>
