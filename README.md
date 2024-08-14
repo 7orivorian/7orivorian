@@ -1,7 +1,7 @@
 # 👋 Heya!
 I'm known as **Tori** on the internet — I make websites, games, mods, libraries, & more! Take a look at some of my projects here on GitHub or over on my [beautiful website](https://7ori.dev).
 
-# Here's some of what I'm good at 👇
+# 👇 Here's some of what I'm good at
 
 ### 🧰 Tools
 
