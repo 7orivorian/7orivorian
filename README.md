@@ -9,7 +9,7 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 
 ### 🖼️ Frameworks
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,express,nodejs&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,express,nodejs,react&perline=7"></a></p>
 
 ### 📜 Languages
 
