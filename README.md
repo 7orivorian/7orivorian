@@ -7,13 +7,13 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 
 <p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,git,github,npm,postman,heroku,githubpages,cloudflare,mongodb,discord,gimp,chatgpt&perline=7"></a></p>
 
-### 🖼️ Frameworks
+### 🖼️ Frameworks & Build Tools
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,express,nodejs,react&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=maven,gradle,express,nodejs,vite,react&perline=7"></a></p>
 
 ### 📜 Languages
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,html,css,scss,md,regex,yaml&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,html,css,scss,md,regex&perline=7"></a></p>
 
 ### 🖥️ OS
 
