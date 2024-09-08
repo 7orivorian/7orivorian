@@ -12,7 +12,7 @@ I pride myself in being able to learn anything, so here are a few of the things 
 
 ### 📜 Languages
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,html,css,scss,md,regex&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,html,css,scss,md,regex&perline=7"></a></p>
 
 ### 🖼️ Frameworks, Libraries, & Build Tools
 
