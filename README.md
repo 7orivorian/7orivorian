@@ -3,8 +3,8 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 
 ## My Current Focus
 
-- [Flatiron - Student](https://flatironschool.com)
-- [OmniMC](https://www.omnimc.org)
+- [Flatiron - Web Dev Student](https://flatironschool.com)
+- [OmniMC - Lead Frontend Developer](https://www.omnimc.org)
 
 ## What I Know
 
