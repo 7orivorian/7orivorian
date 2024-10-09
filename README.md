@@ -6,6 +6,10 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 - [Flatiron - Web Dev Student](https://flatironschool.com)
 - [OmniMC - Lead Frontend Developer](https://www.omnimc.org)
 
+## Contact Me
+
+<a href="mailto:contact@7ori.dev" target="_blank">📨 Email</a>
+
 ## What I Know
 
 I pride myself in being able to learn anything, so here are a few of the things I'm best at.
