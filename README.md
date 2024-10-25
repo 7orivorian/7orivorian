@@ -4,7 +4,7 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 ## My Current Focus
 
 - [Flatiron - Web Dev Student](https://flatironschool.com)
-- [OmniMC - Lead Web Developer](https://www.omnimc.org)
+- [OmniMC - Lead Web Architect & Infrastructure Engineer](https://www.omnimc.org)
 
 ## Contact Me
 
