@@ -32,7 +32,7 @@ I pride myself in being able to learn anything, so here are a few of the things 
 
 ### 📦 Package Managers
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=npm&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=npm,pnpm&perline=7"></a></p>
 
 ### ☁️ Hosting/Database
 
