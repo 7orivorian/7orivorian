@@ -16,11 +16,11 @@ I pride myself in being able to learn anything, so here are a few of the things 
 
 ### 📜 Languages
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,html,css,scss,md,regex&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,js,ts,html,css,scss,md,regex&perline=7"></a></p>
 
 ### 🖼️ Frameworks, Libraries, & Build Tools
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,express,vite,maven,gradle&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,express,vite,maven,gradle,flask,sqlalchemy&perline=7"></a></p>
 
 ### 📄 IDE/Text Editors
 
@@ -36,7 +36,7 @@ I pride myself in being able to learn anything, so here are a few of the things 
 
 ### ☁️ Hosting/Database
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,heroku,githubpages,mongodb&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,heroku,githubpages,mongodb,sqlite&perline=7"></a></p>
 
 ### 💬 Communications
 
