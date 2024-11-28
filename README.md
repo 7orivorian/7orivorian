@@ -8,7 +8,8 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 
 ## Contact Me
 
-- <a href="mailto:contact@7ori.dev" target="_blank">📨 Email</a>
+- <a href="mailto:contact@7ori.dev" target="_blank">📨 General Email</a> – General purpose inquiries.
+- <a href="" target="_blank">📨 Business Email</a> – Employ me. (Coming Soon™!)
 
 ## What I Know
 
