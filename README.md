@@ -1,6 +1,9 @@
 # 👋 Heya!
 I'm known as **Tori** on the internet — I make websites, games, mods, libraries, & more! Take a look at some of my projects here on GitHub or over on my [beautiful website](https://7ori.dev).
 
+![7orivorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=7orivorian&theme=transparent&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7orivorian&layout=compact&theme=transparent&hide_border=true)
+
 ## My Current Focus
 
 - [Flatiron - Web Dev Student](https://flatironschool.com)
