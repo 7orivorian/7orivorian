@@ -28,7 +28,7 @@ I pride myself in being able to learn anything, so here are a few of the things 
 
 ### 📄 IDE/Text Editors
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,sublime&perline=7"></a></p>
 
 ### 🤵 VCS/Collaboration
 
