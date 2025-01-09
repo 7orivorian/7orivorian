@@ -6,7 +6,6 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 
 ## My Current Focus
 
-- [Flatiron - Web Dev Student](https://flatironschool.com)
 - [OmniMC - Lead Web Architect & Infrastructure Engineer](https://www.omnimc.org)
 
 ## Contact Me
@@ -40,7 +39,7 @@ I pride myself in being able to learn anything, so here are a few of the things 
 
 ### ☁️ Hosting/Database
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,heroku,githubpages,mongodb,sqlite&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,heroku,githubpages,render,mongodb,sqlite&perline=7"></a></p>
 
 ### 💬 Communications
 
@@ -52,4 +51,4 @@ I pride myself in being able to learn anything, so here are a few of the things 
 
 ### 🖥️ Operating Systems
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,android&perline=7"></a></p>
