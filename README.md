@@ -4,10 +4,6 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 ![7orivorian's GitHub stats](https://github-readme-stats.vercel.app/api?username=7orivorian&theme=transparent&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7orivorian&layout=compact&theme=transparent&hide_border=true)
 
-## What I'm Up To
-
-- [OmniMC - Lead Web Architect & Infrastructure Engineer](https://www.omnimc.org)
-
 ## Contact Me
 
 - <a href="mailto:contact@7ori.dev" target="_blank">📨 General Email</a> – General purpose inquiries.
