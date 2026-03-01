@@ -8,7 +8,7 @@ I'm known as **Tori** on the internet — I make websites, games, mods, librarie
 
 ## What I Know
 
-I pride myself in being able to learn anything, so here are my favorite development tools.
+I specialize in frontend development using React, TypeScript, & Sass, but that's not my only area of expertise!
 
 ### 📜 Languages
 
@@ -18,10 +18,10 @@ I pride myself in being able to learn anything, so here are my favorite developm
 
 <p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,maven,gradle&perline=7"></a></p>
 
-### 📄 IDE/Text Editors
+### 📄 IDEs & Text Editors
 
 <p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,sublime&perline=7"></a></p>
 
-### ☁️ Hosting/Database
+### ☁️ Hosting & Database
 
 <p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,heroku,githubpages,mongodb,sqlite&perline=7"></a></p>
